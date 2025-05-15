@@ -39,7 +39,7 @@ The app helps doctors:
 
 5. **Patient Report**
    - List of patients with photo, age, and condition
-   - Tap to view detailed medical info
+   - Tap to view detailed medical information
 
 6. **Medical Summary**
    - Patient profile photo and name
